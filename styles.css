@@ -25,6 +25,7 @@ main h1 {
     color: blueviolet;
     text-align: center;
     font-size: 80px;
+    text-transform: uppercase;
 }
 
 main nav {
